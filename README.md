@@ -1,4 +1,4 @@
-# To-Do CLI App
+# ULTRA TODO!
 
 A simple and efficient command-line interface application for managing your daily tasks and to-do lists.
 
